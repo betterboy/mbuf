@@ -1,2 +1,2 @@
 # mbuf
-This is a simple MBUF implementation.
+-这是一个简单的mbuf实现.
